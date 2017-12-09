@@ -1,0 +1,5 @@
+version: '2'
+services:
+  app-nginx:
+    ports:
+      - '8000:80'
